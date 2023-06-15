@@ -1,0 +1,7 @@
+H:\.NetBootcamp\Practice\Session01\Sample01\bin\Debug\Sample01.exe.config
+H:\.NetBootcamp\Practice\Session01\Sample01\bin\Debug\Sample01.exe
+H:\.NetBootcamp\Practice\Session01\Sample01\bin\Debug\Sample01.pdb
+H:\.NetBootcamp\Practice\Session01\Sample01\obj\Debug\Sample01.csprojAssemblyReference.cache
+H:\.NetBootcamp\Practice\Session01\Sample01\obj\Debug\Sample01.csproj.CoreCompileInputs.cache
+H:\.NetBootcamp\Practice\Session01\Sample01\obj\Debug\Sample01.exe
+H:\.NetBootcamp\Practice\Session01\Sample01\obj\Debug\Sample01.pdb
