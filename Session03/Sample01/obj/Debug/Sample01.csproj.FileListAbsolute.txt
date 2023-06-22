@@ -1,0 +1,11 @@
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Sample01.exe.config
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Sample01.exe
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Sample01.pdb
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Kavenegar.dll
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Newtonsoft.Json.dll
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\bin\Debug\Newtonsoft.Json.xml
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\obj\Debug\Sample01.csprojAssemblyReference.cache
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\obj\Debug\Sample01.csproj.CoreCompileInputs.cache
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\obj\Debug\Sample01.csproj.CopyComplete
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\obj\Debug\Sample01.exe
+H:\.NetCoreBootcamp\Practice\Session03\Sample01\obj\Debug\Sample01.pdb
