@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sample01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sample01.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\icon\\password.svg",
+      "PackagePath": "staticwebassets\\icon\\password.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\icon\\shield.svg",
+      "PackagePath": "staticwebassets\\icon\\shield.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\icon\\ssd.svg",
+      "PackagePath": "staticwebassets\\icon\\ssd.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\icon\\www.svg",
+      "PackagePath": "staticwebassets\\icon\\www.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\banner2.png",
+      "PackagePath": "staticwebassets\\images\\banner2.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\dream_img.png",
+      "PackagePath": "staticwebassets\\images\\dream_img.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\qui1.png",
+      "PackagePath": "staticwebassets\\images\\qui1.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\qui2.png",
+      "PackagePath": "staticwebassets\\images\\qui2.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\qui3.png",
+      "PackagePath": "staticwebassets\\images\\qui3.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\images\\qui4.png",
+      "PackagePath": "staticwebassets\\images\\qui4.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session09\\Sample01\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Sample01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Sample01.props",
+      "PackagePath": "build\\Sample01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Sample01.props",
+      "PackagePath": "buildMultiTargeting\\Sample01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Sample01.props",
+      "PackagePath": "buildTransitive\\Sample01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

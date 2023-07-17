@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCSample01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCSample01.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\contact_g.jpg",
+      "PackagePath": "staticwebassets\\images\\contact_g.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\cos.png",
+      "PackagePath": "staticwebassets\\images\\cos.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\cross.png",
+      "PackagePath": "staticwebassets\\images\\cross.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\footer.jpg",
+      "PackagePath": "staticwebassets\\images\\footer.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\leptop.jpg",
+      "PackagePath": "staticwebassets\\images\\leptop.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\pc.png",
+      "PackagePath": "staticwebassets\\images\\pc.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\pct.png",
+      "PackagePath": "staticwebassets\\images\\pct.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product1.png",
+      "PackagePath": "staticwebassets\\images\\product1.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product2.png",
+      "PackagePath": "staticwebassets\\images\\product2.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product3.png",
+      "PackagePath": "staticwebassets\\images\\product3.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product4.png",
+      "PackagePath": "staticwebassets\\images\\product4.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product5.png",
+      "PackagePath": "staticwebassets\\images\\product5.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product6.png",
+      "PackagePath": "staticwebassets\\images\\product6.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product7.png",
+      "PackagePath": "staticwebassets\\images\\product7.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product8.png",
+      "PackagePath": "staticwebassets\\images\\product8.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\product9.png",
+      "PackagePath": "staticwebassets\\images\\product9.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\thr.png",
+      "PackagePath": "staticwebassets\\images\\thr.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\thr1.png",
+      "PackagePath": "staticwebassets\\images\\thr1.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\images\\thr2.png",
+      "PackagePath": "staticwebassets\\images\\thr2.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\revolution\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\.DS_Store"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session10\\MVCSample01\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVCSample01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MVCSample01.props",
+      "PackagePath": "build\\MVCSample01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCSample01.props",
+      "PackagePath": "buildMultiTargeting\\MVCSample01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MVCSample01.props",
+      "PackagePath": "buildTransitive\\MVCSample01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
