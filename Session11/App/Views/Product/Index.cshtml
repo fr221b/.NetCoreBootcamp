@@ -1,0 +1,68 @@
+
+@model MProduct
+
+
+<style>
+    th,td{
+        text-align: center;
+    }
+</style>
+
+<form action="/Product/AddProduct" method="post">
+
+    <div class="text-center p-3 row border bg-white justify-content-center">
+
+        <div class="col-3 ">
+            <input required asp-for="ProductName" class="form-control" type="text" placeholder="ProductName">
+        </div>
+
+        <div class="col-3 ">
+            <input required asp-for="Category" class="form-control" type="text" placeholder="Category">
+        </div>
+
+        <div class="col-3 ">
+            <input required asp-for="Price" class="form-control" type="text" placeholder="Price">
+        </div>
+
+        <div class="col-3 ">
+            <button type="submit" class="btn-success form-control">Save Info</button>
+        </div>
+
+    </div>
+</form>
+<div class="row p-3 bg-white">
+
+      <p class="text-center alert alert-primary">
+        Produc List
+      </p>
+
+      <table class="table table-striped">
+          <tr>
+            <th>Row</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Action</th>
+          </tr>
+          @{
+              int i = 1;
+          }
+
+          @foreach (var item in ViewBag.list)
+          {
+            <tr>
+              <td>@i</td>
+              <td>@item.ProductName</td>
+              <td>@item.Category</td>
+              <td>@item.Price</td>
+              <td>
+                <a href="/Product/Delete/@item.ProductID" class="btn btn-danger" onclick="return confirm('Are you sure to delete this record ?')">Delete</a>
+                <button class="btn btn-warning">Edit</button>
+              </td>
+                </tr>
+                i++;
+          }
+          
+      </table>
+
+</div>
