@@ -20,11 +20,27 @@ public class ProductController : Controller
             iproduct.AddProduct(product);
              return RedirectToAction("Index");
          }
+         
          public IActionResult Delete(int id)
          {
-            iproduct.DeleteProduct(id);
+             iproduct.DeleteProduct(id);
              return RedirectToAction("Index");
          }
+
+         public IActionResult Edit(int id)
+         {
+            var product=iproduct.GetProductById(id);
+             return View(product);
+         }
+
+         public IActionResult UpdateProduct(MProduct mProduct)
+         {
+            iproduct.UpdateProduct(mProduct);
+             return RedirectToAction("Index");
+         }
+         
+         
+         
          
          
 }

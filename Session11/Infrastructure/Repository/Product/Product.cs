@@ -48,8 +48,24 @@ public class Product : IProduct
         return mProducts;
     }
 
+    public MProduct GetProductById(int id)
+    {
+        var product=dbContext.TblProducts.Find(id);
+        var mProduct=new MProduct();
+        mProduct.ProductName=product.ProductName;
+        mProduct.Category=product.Category;
+        mProduct.Price=product.Price;
+        mProduct.ProductID=product.ProductID;
+        return mProduct;
+    }
+
     public void UpdateProduct(MProduct product)
     {
-        throw new NotImplementedException();
+        var tblProduct=dbContext.TblProducts.Find(product.ProductID);
+        tblProduct.ProductName=product.ProductName;
+        tblProduct.Category=product.Category;
+        tblProduct.Price = product.Price;
+        tblProduct.ProductID=product.ProductID;
+        dbContext.SaveChanges();
     }
 }

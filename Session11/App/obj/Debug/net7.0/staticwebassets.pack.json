@@ -5,6 +5,446 @@
       "PackagePath": "staticwebassets\\App.bundle.scp.css"
     },
     {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
       "Id": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -3,6 +3,7 @@ using Core.Interface.Product;
 using Infrastructure.Data.Context;
 using Infrastructure.Repository.Product;
 using Infrastructure.Repository.User;
+using Microsoft.AspNetCore.Builder;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +30,12 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapAreaControllerRoute(
+    name: "Admin",
+    areaName: "Admin",
+    pattern: "Admin/{controller=Home}/{action=Index}/{id?}"
+);
 
 app.MapControllerRoute(
     name: "default",

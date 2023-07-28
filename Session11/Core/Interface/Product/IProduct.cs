@@ -17,5 +17,8 @@ public interface IProduct
 
       //Delete
       void DeleteProduct(int id);
+
+      //GetById
+      MProduct GetProductById(int id);
  
 }
