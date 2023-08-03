@@ -2,6 +2,7 @@ using Core.Domain.User;
 using Core.Interface.Product;
 using Infrastructure.Data.Context;
 using Infrastructure.Data.Entities.Product;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repository.Product;
 
@@ -58,6 +59,28 @@ public class Product : IProduct
         mProduct.ProductID=product.ProductID;
         return mProduct;
     }
+
+    public List<MProduct> GetProductInRange(int[] productIds)
+    {
+         var tblProducts=new List<TblProduct>();
+         var mProducts=new List<MProduct>();
+         for (int i = 0; i < productIds.Length; i++)
+         {
+              var product=dbContext.TblProducts.Find(productIds[i]);
+              tblProducts.Add(product);
+         }
+         
+         foreach (var product in tblProducts)
+         {
+            MProduct mProduct =new MProduct();
+             mProduct.ProductID=product.ProductID;
+             mProduct.ProductName = product.ProductName; 
+             mProduct.Category=product.Category;
+             mProduct.Price=product.Price;
+             mProducts.Add(mProduct);
+         }  
+         return mProducts;          
+    } 
 
     public void UpdateProduct(MProduct product)
     {

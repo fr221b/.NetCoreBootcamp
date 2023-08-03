@@ -20,5 +20,8 @@ public interface IProduct
 
       //GetById
       MProduct GetProductById(int id);
+
+      //GetInRange
+      List<MProduct> GetProductInRange(int[] productIds);
  
 }

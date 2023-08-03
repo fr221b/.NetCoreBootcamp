@@ -13,6 +13,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Context>();
 builder.Services.AddScoped<IUser,User>();
 builder.Services.AddScoped<IProduct,Product>();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -28,6 +29,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 

@@ -1,0 +1,53 @@
+<div class=" p-3 bg-white">
+
+    <p class="text-center alert alert-primary">
+        Product List in the cart
+    </p>
+    <div class="float-container p-3 bg-white" style="border: 3px solid #fff;
+    padding: 20px;">
+        <div class="float-child" style="width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px;">
+            <table class=" table table-striped" >
+                <tr>
+                    <th>Row</th>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                </tr>
+                @{
+                    int j = 1;
+                }
+
+                @foreach (var item in ViewBag.Products)
+                {
+                    <tr>
+                        <td>@j</td>
+                        <td>@item.ProductName</td>
+                        <td>@item.Category</td>
+                        <td>@item.Price</td>
+                    </tr>
+                    j++;
+                }
+            </table>
+        </div>
+        <div class="float-child" style="width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px ;
+">
+            <table class="table table-striped">
+                <tr>
+                    <th>Quantity</th>
+                </tr>
+                @foreach (var item in ViewBag.ProductsQuantity)
+                {
+                    <tr>
+                        <td>@item</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
