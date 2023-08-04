@@ -79,3 +79,5 @@ H:\.NetCoreBootcamp\Practice\Session11\App\obj\Debug\net7.0\refint\App.dll
 H:\.NetCoreBootcamp\Practice\Session11\App\obj\Debug\net7.0\App.pdb
 H:\.NetCoreBootcamp\Practice\Session11\App\obj\Debug\net7.0\App.genruntimeconfig.cache
 H:\.NetCoreBootcamp\Practice\Session11\App\obj\Debug\net7.0\ref\App.dll
+H:\.NetCoreBootcamp\Practice\Session11\App\bin\Debug\net7.0\AutoMapper.dll
+H:\.NetCoreBootcamp\Practice\Session11\App\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

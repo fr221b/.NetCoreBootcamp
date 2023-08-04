@@ -9,4 +9,5 @@ public class MProduct
       public string Category { get; set; }
       public decimal Price { get; set; }
       public int Quantity { get; set; }
+      public string SubmitDate { get; set; }
 }

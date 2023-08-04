@@ -1,6 +1,8 @@
 using Core.Domain.User;
 using Core.Interface.Product;
 using Infrastructure.Data.Context;
+using Infrastructure.Data.Entities.Product;
+using Infrastructure.Repository;
 using Infrastructure.Repository.Product;
 using Infrastructure.Repository.User;
 using Microsoft.AspNetCore.Builder;
@@ -14,6 +16,8 @@ builder.Services.AddDbContext<Context>();
 builder.Services.AddScoped<IUser,User>();
 builder.Services.AddScoped<IProduct,Product>();
 builder.Services.AddSession();
+builder.Services.AddScoped<IProduct,Product>();
+builder.Services.AddAutoMapper(typeof(MyMapper));
 
 var app = builder.Build();
 

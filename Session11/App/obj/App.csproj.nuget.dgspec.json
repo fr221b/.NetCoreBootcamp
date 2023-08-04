@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
-                "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj"
+              "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
+                "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj"
               },
               "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj": {
                 "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj"
@@ -52,6 +52,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -86,14 +90,14 @@
         }
       }
     },
-    "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
+    "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj",
+        "projectUniqueName": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj",
+        "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\obj\\",
+        "outputPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,6 +130,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "kavenegar": {
               "target": "Package",
               "version": "[1.2.4, )"
@@ -179,8 +187,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
-                "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj"
+              "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
+                "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj"
               }
             }
           }
@@ -195,6 +203,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

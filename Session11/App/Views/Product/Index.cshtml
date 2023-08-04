@@ -12,22 +12,27 @@
 
     <div class="text-center p-3 row border bg-white justify-content-center">
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input required asp-for="ProductName" class="form-control" type="text" placeholder="ProductName">
         </div>
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input required asp-for="Category" class="form-control" type="text" placeholder="Category">
         </div>
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input required asp-for="Price" class="form-control" type="text" placeholder="Price">
         </div>
 
-        <div class="col-3 ">
-            <button type="submit" class="btn-success form-control">Save Info</button>
+         <div class="col-2 ">
+            <input required asp-for="SubmitDate" class="form-control " type="text" placeholder="SubmitDate">
         </div>
 
+        <div class="col-2 ">
+            <button type="submit" class="btn-success form-control mt-10px">Save Info</button>
+        </div>
+
+        
     </div>
 </form>
 <div class="row p-3 bg-white">
@@ -43,6 +48,7 @@
             <th>Name</th>
             <th>Category</th>
             <th>Price</th>
+            <th>SubmitDate</th>
             <th>Action</th>
         </tr>
         @{
@@ -56,6 +62,7 @@
                 <td>@item.ProductName</td>
                 <td>@item.Category</td>
                 <td>@item.Price</td>
+                <td>@item.SubmitDate</td>
                 <td>
                     <a href="/Product/Delete/@item.ProductID" class="btn btn-danger"
                         onclick="return confirm('Are you sure to delete this record ?')">Delete</a>

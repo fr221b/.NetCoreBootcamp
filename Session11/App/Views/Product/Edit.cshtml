@@ -12,20 +12,24 @@
 
     <div class="text-center p-3 row border bg-white justify-content-center">
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input type="text" asp-for="ProductID" style="display: none;" >
             <input  required asp-for="ProductName" class="form-control" type="text" placeholder="ProductName">
         </div>
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input  required asp-for="Category" class="form-control" type="text" placeholder="Category">
         </div>
 
-        <div class="col-3 ">
+        <div class="col-2 ">
             <input  required asp-for="Price" class="form-control" type="text" placeholder="Price">
         </div>
 
-        <div class="col-3 ">
+        <div class="col-2 ">
+            <input  required asp-for="SubmitDate" class="form-control" type="text" placeholder="SubmitDate">
+        </div>
+
+        <div class="col-2 ">
             <button type="submit" class="btn-success form-control">Update Info</button>
         </div>
 

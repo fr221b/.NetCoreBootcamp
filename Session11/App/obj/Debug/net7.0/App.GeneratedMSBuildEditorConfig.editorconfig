@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App
 build_property.RootNamespace = App
-build_property.ProjectDir = H:\.NetCoreBootcamp\Practice\Session11\App\
+build_property.ProjectDir = h:\.NetCoreBootcamp\Practice\Session11\App\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = H:\.NetCoreBootcamp\Practice\Session11\App
+build_property.MSBuildProjectDirectory = h:\.NetCoreBootcamp\Practice\Session11\App
 build_property._RazorSourceGeneratorDebug = 
 
 [H:/.NetCoreBootcamp/Practice/Session11/App/Areas/Admin/Views/Home/Index.cshtml]
