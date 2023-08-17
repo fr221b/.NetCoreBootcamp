@@ -1,0 +1,13 @@
+﻿@model SaveProductCommand
+
+<form action="/Home/AddProduct" method="post">
+<div class="text center">
+          
+         <input type="text" asp-for="Name" placeholder="ProductName">
+         <input type="text" asp-for="Description" placeholder="Description">
+         <input type="text" asp-for="Price" placeholder="Price">
+         <input type="text" asp-for="Color" placeholder="ProductColor">
+
+         <button type="submit">Save</button>
+</div>
+</form>

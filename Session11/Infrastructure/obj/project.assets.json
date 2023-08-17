@@ -3618,11 +3618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\obj\\",
+      "outputPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

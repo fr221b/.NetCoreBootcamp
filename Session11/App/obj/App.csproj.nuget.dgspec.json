@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj": {}
+    "h:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj": {}
   },
   "projects": {
-    "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj": {
+    "h:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj",
+        "projectUniqueName": "h:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj",
+        "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\App\\App.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\App\\obj\\",
+        "outputPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,8 +36,8 @@
               "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj": {
                 "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Core\\Core.csproj"
               },
-              "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj"
+              "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj": {
+    "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "H:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\obj\\",
+        "outputPath": "h:\\.NetCoreBootcamp\\Practice\\Session11\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
