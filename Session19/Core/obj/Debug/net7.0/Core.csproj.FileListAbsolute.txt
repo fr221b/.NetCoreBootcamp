@@ -1,0 +1,11 @@
+H:\.NetCoreBootcamp\Practice\Session19\Core\bin\Debug\net7.0\Core.deps.json
+H:\.NetCoreBootcamp\Practice\Session19\Core\bin\Debug\net7.0\Core.dll
+H:\.NetCoreBootcamp\Practice\Session19\Core\bin\Debug\net7.0\Core.pdb
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.dll
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\refint\Core.dll
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\Core.pdb
+H:\.NetCoreBootcamp\Practice\Session19\Core\obj\Debug\net7.0\ref\Core.dll
