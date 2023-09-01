@@ -9,6 +9,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Context>();
 builder.Services.AddScoped<IMenu,Menu>();
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
